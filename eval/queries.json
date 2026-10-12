@@ -1,0 +1,92 @@
+[
+  {
+    "id": "shopify-attendees",
+    "query": "Who attended the Shopify observability discussion?",
+    "gold": "Marina L."
+  },
+  {
+    "id": "shopify-vpc",
+    "query": "Where can the Shopify scoring service be deployed?",
+    "gold": "Shopify VPC"
+  },
+  {
+    "id": "shopify-mttd",
+    "query": "What MTTD improvement did Shopify target?",
+    "gold": "median MTTD"
+  },
+  {
+    "id": "shopify-ctr",
+    "query": "What is Shopify's baseline CTR on recommendation modules?",
+    "gold": "2.1%"
+  },
+  {
+    "id": "siemens-attendees",
+    "query": "Who attended the Siemens Energy turbine pilot scoping meeting?",
+    "gold": "Lukas M."
+  },
+  {
+    "id": "siemens-sampling",
+    "query": "What vibration sampling rate did Siemens Energy target?",
+    "gold": "1–5 kHz"
+  },
+  {
+    "id": "siemens-opcua",
+    "query": "Which protocol does the Siemens edge gateway collect with?",
+    "gold": "OPC-UA"
+  },
+  {
+    "id": "siemens-eu",
+    "query": "What localization question is still open for Siemens EU sites?",
+    "gold": "data localization"
+  },
+  {
+    "id": "siemens-cmk",
+    "query": "How is Siemens telemetry encrypted at rest?",
+    "gold": "CMK"
+  },
+  {
+    "id": "siemens-hsm",
+    "query": "What key-management choice is still open for Siemens?",
+    "gold": "Customer-managed HSM"
+  },
+  {
+    "id": "moderna-attendees",
+    "query": "Who attended the Moderna GxP analytics controls discussion?",
+    "gold": "Mei T."
+  },
+  {
+    "id": "moderna-validation",
+    "query": "What validation lifecycle does Moderna follow?",
+    "gold": "IQ/OQ/PQ"
+  },
+  {
+    "id": "moderna-vpc",
+    "query": "What environment path does Moderna use before production?",
+    "gold": "Sandbox VPC"
+  },
+  {
+    "id": "moderna-irb",
+    "query": "Which signals flag Moderna sites at risk of startup delays?",
+    "gold": "IRB lag"
+  },
+  {
+    "id": "shopify-fp",
+    "query": "What false-positive alert reduction did Shopify ask for?",
+    "gold": "50–70%"
+  },
+  {
+    "id": "shopify-soc2",
+    "query": "What did we agree to send Shopify after the June call?",
+    "gold": "SOC 2 summary"
+  },
+  {
+    "id": "shopify-impressions",
+    "query": "How many weekly impressions are in the Shopify ROI model?",
+    "gold": "18M weekly"
+  },
+  {
+    "id": "moderna-startup",
+    "query": "By how many days can CTMS integration shorten Moderna site startup?",
+    "gold": "10–15 days"
+  }
+]
