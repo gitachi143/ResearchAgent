@@ -1,0 +1,58 @@
+[
+  {
+    "id": "helios-retail",
+    "company": "Helios Retail",
+    "topic": "observability rollout",
+    "query": "What identifier did Helios Retail record after the observability rollout session?",
+    "gold": "HERON-4419"
+  },
+  {
+    "id": "northwind-bio",
+    "company": "Northwind Bio",
+    "topic": "freezer validation",
+    "query": "What identifier did Northwind Bio record after the freezer validation session?",
+    "gold": "FROST-2208"
+  },
+  {
+    "id": "keel-harbor",
+    "company": "Keel Harbor",
+    "topic": "gearbox inspection",
+    "query": "What identifier did Keel Harbor record after the gearbox inspection session?",
+    "gold": "KEEL-7731"
+  },
+  {
+    "id": "plover-pay",
+    "company": "Plover Pay",
+    "topic": "checkout latency",
+    "query": "What identifier did Plover Pay record after the checkout latency session?",
+    "gold": "PLOV-1184"
+  },
+  {
+    "id": "bramble-health",
+    "company": "Bramble Health",
+    "topic": "site startup",
+    "query": "What identifier did Bramble Health record after the site startup session?",
+    "gold": "BRAM-9055"
+  },
+  {
+    "id": "cinder-logistics",
+    "company": "Cinder Logistics",
+    "topic": "yard dwell",
+    "query": "What identifier did Cinder Logistics record after the yard dwell session?",
+    "gold": "CIND-3340"
+  },
+  {
+    "id": "sable-insurance",
+    "company": "Sable Insurance",
+    "topic": "claims backlog",
+    "query": "What identifier did Sable Insurance record after the claims backlog session?",
+    "gold": "SABL-6627"
+  },
+  {
+    "id": "marrow-foods",
+    "company": "Marrow Foods",
+    "topic": "spoilage review",
+    "query": "What identifier did Marrow Foods record after the spoilage review session?",
+    "gold": "MARR-2816"
+  }
+]
